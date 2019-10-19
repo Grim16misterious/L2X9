@@ -5,3 +5,6 @@ This repository will document stuff about minecraft,L2X9,Hacked clients,mods,tut
 If you are a L2X9 player then feel free to look, if not idk then.
 
 if you want to meet me/play then visit L2X9.ftp.sh
+
+
+btw:thanks to agr for inspiring me to create this OP shit library
