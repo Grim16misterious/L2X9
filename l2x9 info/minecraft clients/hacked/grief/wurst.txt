@@ -1,1 +1,3 @@
 https://www.wurstclient.net/download/
+
+allows you to force OP and spam

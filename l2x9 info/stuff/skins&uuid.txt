@@ -1,0 +1,3 @@
+https://namemc.com
+
+Allows you to find player and copy their uuid and then implement them into a cracked server(or just find skins)

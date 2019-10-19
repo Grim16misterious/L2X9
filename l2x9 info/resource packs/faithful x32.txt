@@ -1,1 +1,3 @@
 https://www.curseforge.com/minecraft/texture-packs/faithful-32x
+
+smoother version of the 1.12.2 defult texture pack(and a nicer one)
