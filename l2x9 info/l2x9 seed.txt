@@ -1,1 +1,5 @@
 6733671166781323489
+
+use amidst for the seed exploring/exploiting
+
+here:  https://github.com/toolbox4minecraft/amidst
