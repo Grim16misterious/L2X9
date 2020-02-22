@@ -1,0 +1,3 @@
+https://github.com/fr1kin/ForgeHax
+
+allows (as expected) to create dupe/ban books
