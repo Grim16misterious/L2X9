@@ -1,0 +1,3 @@
+https://www.curseforge.com/minecraft/mc-mods/clumps
+
+reduces lag when absorbing xp
