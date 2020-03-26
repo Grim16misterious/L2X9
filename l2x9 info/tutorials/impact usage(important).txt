@@ -1,8 +1,35 @@
 Client name: impact
-needed  ver'(for l2x9(of course silly)lol):1.12.2
-
-client compatibility with other clients:
-
+Needed  ver'(for l2x9(of course silly)lol):1.12.2
+______________________________________
+Client compatibility with other clients:
+_________________________________________
 1.kami- wont work(unless ur sum kind of hecker, h3h3)
 2.wwe- abusive relationship from both sides(don't get near them)
+__________________________________________________________
+Rodules(use this for refrence): https://impactclient.net/features.html
+Recommended modules(for usage):
+A. Timer(2.49-2.72)
+B. ESP
+C. Storage ESP(like ESP, but for storage units)
+D. Nametags
+E. Auto eat
+F. search(use for finding portals)
+G. velocity(0%,0%)
+H. Log position
+I. Trajectories
+J. Anti-blind
+K. Hunt(for following players around)
+L. Criticals:packet
+M. Jesus:solid
+N. Kill Aura:single
+O. Auto walk(insert keybind)
+P. Auto totem
+And more....
+__________________________________________________________________0w0
+my main goal: modify it to bypass most patches
+
+wish me luck!
+
+
+
 
