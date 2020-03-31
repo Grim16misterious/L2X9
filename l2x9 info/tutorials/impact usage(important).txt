@@ -26,9 +26,7 @@ O. Auto walk(insert keybind)
 P. Auto totem
 And more....
 __________________________________________________________________0w0
-my main goal: modify it to bypass most patches
 
-wish me luck!
 
 
 
